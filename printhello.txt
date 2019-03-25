@@ -1,0 +1,2 @@
+My first git program:
+Hello world !
